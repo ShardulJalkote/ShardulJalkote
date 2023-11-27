@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ShardulJalkote
-- 👀 I’m a Node.js developer and I am interested in MERN/MEAN Full stack Development
-- 🌱 I’m currently working on node.Js, React, Javascript
-- 💞️ I’m looking to collaborate on project related to node JS
+- 👀 I’m a Full-Stack developer working with Python, Flask, Django, Javascript, Angular, Node.js, SQL & NoSQL databases. 
+- 💞️ I’m looking to collaborate on different projects.
 - 📫 How to reach me - mail me at sharduljalkote11@gmail.com
 
 <!---
